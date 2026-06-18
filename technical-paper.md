@@ -1,4 +1,4 @@
-Content Delivery Networks (CDNs)
+## Content Delivery Networks (CDNs)
 Introduction
 
 A Content Delivery Network (CDN) is a distributed system of servers located in multiple geographic regions that work together to deliver web content to users quickly and efficiently. CDNs reduce the distance between users and website resources by serving content from the server closest to the user. This improves website performance, decreases latency, and enhances the overall user experience.
