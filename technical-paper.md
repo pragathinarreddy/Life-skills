@@ -27,3 +27,10 @@ When a user requests a webpage, image, video, or other digital content, the CDN 
 ### Conclusion
 
 Content Delivery Networks play a crucial role in modern web infrastructure by improving performance, reliability, and security. By distributing content across multiple edge servers worldwide, CDNs ensure that users receive data quickly regardless of their geographic location. As internet traffic continues to grow, CDNs remain an essential technology for delivering fast and efficient online experiences.
+### References
+* https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+* https://aws.amazon.com/what-is/cdn/
+* https://www.akamai.com/glossary/what-is-a-cdn
+* https://developer.mozilla.org/en-US/docs/Web/Performance
+* https://www.geeksforgeeks.org/content-delivery-network-cdn/
+
